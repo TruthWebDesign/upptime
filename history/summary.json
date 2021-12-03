@@ -4,19 +4,19 @@
     "url": "https://authentix.com",
     "icon": "https://favicons.githubusercontent.com/authentix.com",
     "slug": "authentix",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 424,
-    "timeDay": 424,
-    "timeWeek": 424,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "status": "up",
+    "uptime": "91.31%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "91.31%",
+    "uptimeMonth": "91.31%",
+    "uptimeYear": "91.31%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2021-12-03": 0
+      "2021-12-03": 28
     }
   },
   {
