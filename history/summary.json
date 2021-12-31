@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/authentix.com",
     "slug": "authentix",
     "status": "up",
-    "uptime": "92.99%",
+    "uptime": "93.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "92.99%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "93.39%",
     "time": 547,
-    "timeDay": 277,
-    "timeWeek": 543,
+    "timeDay": 540,
+    "timeWeek": 541,
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
@@ -46,11 +46,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 540,
-    "timeDay": 265,
-    "timeWeek": 582,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "time": 543,
+    "timeDay": 653,
+    "timeWeek": 573,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2021-12-26": 26
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 392,
-    "timeWeek": 462,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "time": 423,
+    "timeDay": 648,
+    "timeWeek": 481,
+    "timeMonth": 423,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   }
 ]
