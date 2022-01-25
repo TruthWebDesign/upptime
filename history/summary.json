@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/authentix.com",
     "slug": "authentix",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.31%",
+    "uptimeYear": "97.33%",
     "time": 538,
     "timeDay": 491,
     "timeWeek": 577,
@@ -40,9 +40,9 @@
     "url": "https://truthwebdesign.com",
     "icon": "https://favicons.githubusercontent.com/truthwebdesign.com",
     "slug": "truthwebdesign-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
@@ -52,6 +52,7 @@
     "timeMonth": 563,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2022-01-25": 0,
       "2021-12-26": 26
     }
   },
