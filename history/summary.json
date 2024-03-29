@@ -4,7 +4,7 @@
     "url": "https://authentix.com",
     "icon": "https://icons.duckduckgo.com/ip3/authentix.com.ico",
     "slug": "authentix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 263,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2024-03-29": 0,
       "2023-10-30": 28
     }
   },
