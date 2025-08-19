@@ -67,19 +67,19 @@
     "url": "https://xxxchurch.com",
     "icon": "https://icons.duckduckgo.com/ip3/xxxchurch.com.ico",
     "slug": "xxx-church",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 290,
-    "timeDay": 10140,
-    "timeWeek": 2788,
-    "timeMonth": 874,
+    "timeDay": 6802,
+    "timeWeek": 2493,
+    "timeMonth": 851,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-08-19": 0,
+      "2025-08-19": 11,
       "2025-06-12": 114
     }
   }
