@@ -6,14 +6,14 @@
     "slug": "authentix",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
     "time": 1096,
-    "timeDay": 4514,
-    "timeWeek": 1376,
-    "timeMonth": 2168,
+    "timeDay": 428,
+    "timeWeek": 1398,
+    "timeMonth": 2097,
     "timeYear": 1356,
     "dailyMinutesDown": {
       "2026-02-05": 22,
@@ -44,8 +44,7 @@
       "2025-04-17": 32,
       "2025-04-05": 9,
       "2025-03-15": 16,
-      "2025-02-08": 12,
-      "2025-02-07": 11
+      "2025-02-08": 12
     }
   },
   {
@@ -60,9 +59,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 273,
-    "timeDay": 286,
-    "timeWeek": 264,
-    "timeMonth": 263,
+    "timeDay": 230,
+    "timeWeek": 271,
+    "timeMonth": 266,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2025-12-05": 21,
@@ -84,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 304,
-    "timeDay": 180,
-    "timeWeek": 267,
-    "timeMonth": 275,
+    "timeDay": 167,
+    "timeWeek": 231,
+    "timeMonth": 274,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2025-12-05": 21,
