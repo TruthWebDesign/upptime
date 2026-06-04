@@ -62,23 +62,23 @@
     "url": "https://truthwebdesign.com",
     "icon": "https://icons.duckduckgo.com/ip3/truthwebdesign.com.ico",
     "slug": "truthwebdesign-com",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.92%",
     "time": 288,
-    "timeDay": 316,
-    "timeWeek": 239,
-    "timeMonth": 267,
+    "timeDay": 293,
+    "timeWeek": 240,
+    "timeMonth": 266,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2025-06-12": 126,
       "2025-10-03": 25,
       "2025-11-18": 170,
       "2025-12-05": 21,
-      "2026-06-04": 0
+      "2026-06-04": 72
     }
   },
   {
@@ -86,16 +86,16 @@
     "url": "https://xxxchurch.com",
     "icon": "https://icons.duckduckgo.com/ip3/xxxchurch.com.ico",
     "slug": "xxx-church",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.93%",
     "time": 315,
-    "timeDay": 106,
-    "timeWeek": 147,
-    "timeMonth": 257,
+    "timeDay": 129,
+    "timeWeek": 150,
+    "timeMonth": 254,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-06-12": 114,
@@ -103,7 +103,7 @@
       "2025-10-03": 15,
       "2025-11-18": 152,
       "2025-12-05": 21,
-      "2026-06-04": 0
+      "2026-06-04": 72
     }
   }
 ]
