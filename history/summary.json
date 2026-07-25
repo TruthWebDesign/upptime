@@ -60,12 +60,12 @@
     "slug": "truthwebdesign-com",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "85.43%",
-    "uptimeWeek": "95.57%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.85%",
     "time": 283,
-    "timeDay": 187,
+    "timeDay": 197,
     "timeWeek": 251,
     "timeMonth": 245,
     "timeYear": 298,
@@ -77,7 +77,8 @@
       "2026-06-26": 36,
       "2026-07-22": 104,
       "2026-07-23": 133,
-      "2026-07-24": 209
+      "2026-07-24": 211,
+      "2026-07-25": 28
     }
   },
   {
