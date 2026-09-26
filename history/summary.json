@@ -49,16 +49,16 @@
     "url": "https://truthwebdesign.com",
     "icon": "https://icons.duckduckgo.com/ip3/truthwebdesign.com.ico",
     "slug": "truthwebdesign-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 301,
-    "timeDay": 458,
-    "timeWeek": 345,
-    "timeMonth": 383,
+    "time": 302,
+    "timeDay": 342,
+    "timeWeek": 330,
+    "timeMonth": 378,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -73,7 +73,8 @@
       "2026-07-26": 138,
       "2026-07-27": 159,
       "2026-07-28": 170,
-      "2026-07-29": 105
+      "2026-07-29": 105,
+      "2026-09-26": 0
     }
   },
   {
